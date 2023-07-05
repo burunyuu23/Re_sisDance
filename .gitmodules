@@ -1,6 +1,6 @@
 [submodule "matrixAPI"]
-	path = matrixAPI
+	path = matrix_api
 	url = https://github.com/burunyuu23/matrixAPI.git
 [submodule "resistanceAPI"]
-	path = resistanceAPI
+	path = resistance_api
 	url = https://github.com/burunyuu23/resistanceAPI.git
